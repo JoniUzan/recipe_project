@@ -1,0 +1,16 @@
+.Nutrition-table {
+  font-family: var(--ff-Outfit);
+    display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: first baseline;
+}
+.brown{
+    color: var(--clr-primary-500);
+    padding: 1rem;
+
+}
+.gray{
+    color: var(--clr-neutral-700);
+    padding: 1rem;
+    padding-left: 2rem;
+}
